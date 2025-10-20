@@ -1,0 +1,16 @@
+ 
+  
+build:
+ version: "3.0"
+ 
+accounts:
+ message: "Welcome to EazyBank accounts related REST API's "
+ contactDetails:
+  name: "Raghu-Java Developer"
+  email: "raghu@Xcompany.com"
+ onCallSupport:
+  - (555)555-1234
+  - (555)523-1358  
+  
+ 
+ 
