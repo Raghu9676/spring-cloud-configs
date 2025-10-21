@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EAZYBANK loans related webhook APIs "
+  message: "Welcome to EAZYBANK loans Microservice related prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}c3df58daef56287bec172bd86baad6b9ede5ba8a69e26c2e3036364d21b610c8131d74879de6603262a1e062090c7192"
@@ -12,6 +12,7 @@ loans:
     - (723) 656-8709
 
     - (156) 342-0956
+
 
 
 
