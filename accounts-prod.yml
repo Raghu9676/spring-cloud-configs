@@ -3,7 +3,7 @@ build:
  version: "1.0"
  
 accounts:
- message: "Welcome to EAZYBANK related webhook API's"
+ message: "Welcome to EAZYBANK related prod API's"
  contactDetails:
   name: "Aishwarya - Product Owner"
   email: "aishwarya@eazyBank.com"
@@ -11,6 +11,7 @@ accounts:
   - (453) 392-4892
 
   - (263) 203-0384     
+
 
 
 
