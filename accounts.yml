@@ -4,7 +4,7 @@ build:
  version: "3.0"
  
 accounts:
- message: "Welcome to EazyBank accounts related REST API's "
+ message: "Welcome to EazyBank accounts related REST API's after containarizing"
  contactDetails:
   name: "Raghu-Java Developer"
   email: "raghu@Xcompany.com"
@@ -13,4 +13,5 @@ accounts:
   - (555)523-1358  
   
  
+
  
